@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 -->
 ## 🔁 Contributions from My Enterprise Account
 
-While this GitHub account reflects a significant part of my engineering work, I also actively contribute to other internal repositories at **Myriad** on our GitHub Enterprise Server.
-
-🔒 GitHub Enterprise Server: `https://github.myriad.com/stnielse`
+While this GitHub account reflects a significant part of my engineering work, I also actively contribute to other internal repositories at **Myriad** on our 🔒 GitHub Enterprise Server: `https://github.myriad.com/stnielse`
 
 Due to security controls, most of this work is private, but depending on the day can contain a large portion of my output.
 
