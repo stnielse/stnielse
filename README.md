@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Steven and I'm a software engineer with an academic foundation in physics and applied mathematics, which I use to approach engineering challenges with a strong analytical and problem-solving mindset. I enjoy bridging theory and implementation, turning complex ideas into efficient, maintainable code. My go-to languages are Python and TypeScript, though I'm also comfortable with JavaScript and configuration tools like YAML. Outside of the editor, you'll find me pushing limits as an endurance athlete—trail running, road biking, and mountain biking. I thrive on solving hard problems, both on the trail and in the codebase.
+
 <!--
 **stnielse/stnielse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,5 +22,5 @@ While this GitHub account reflects a significant part of my engineering work, I 
 
 🔒 GitHub Enterprise Server: `https://github.myriad.com/stnielse`
 
-Due to privacy and access controls, most of this work is private, but depending on the day can contain a large portion of my output.
+Due to security controls, most of this work is private, but depending on the day can contain a large portion of my output.
 
