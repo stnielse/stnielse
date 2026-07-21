@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 While this GitHub account reflects a significant part of my engineering work, I also actively contribute to other internal repositories at **Myriad** on our 🔒 GitHub Enterprise Server: `https://github.myriad.com/stnielse`
 
-Due to security controls, most of this work is private, but depending on the day can contain a large portion of my output.
+Due to organization privacy, any work contributions on either gh server are hidden, but can typically contain a majority of my code output.
 
