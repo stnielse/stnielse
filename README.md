@@ -1,6 +1,6 @@
 ## ⬅️  A little bit about myself 🏔️🏃🚴📚
 
-My name is Steven and I'm a software engineer with an academic foundation in physics and applied mathematics, which I use to approach challenges with a strong analytical and problem-solving mindset. I enjoy bridging theory and implementation, turning complex ideas into efficient, maintainable code. My go-to languages are Python and TypeScript but really I love jumping into everything! Outside of the computer, you'll find me pushing limits as an endurance athlete—trail running, road biking, and mountain biking. I thrive on solving hard problems, both on the trail and in the codebase.
+My name is Steven and I'm a software engineer with an academic foundation in physics and applied mathematics, which I use to approach challenges with a strong analytical and problem-solving mindset. I enjoy bridging theory and implementation, turning complex ideas into efficient, maintainable code. I can solve problems in any language, though my favorites are Python and TypeScript but really I love jumping into everything! Outside of the computer, you'll find me pushing limits as an endurance athlete—trail running, road biking, and mountain biking. I thrive on solving hard problems, both on the trail and in the codebase.
 
 <!--
 **stnielse/stnielse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
